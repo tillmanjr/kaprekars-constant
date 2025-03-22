@@ -20,6 +20,7 @@ const KaprekarsConstant = 6174
 /** @type {String} Kapreskar's Constant as string */
 const KaprekarsConstantStr = KaprekarsConstant.toString()
 
+
 /**
  *  For the digits of the passed value calculate the difference of
  *    the digits sorted in descending order and 
